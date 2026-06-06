@@ -1,0 +1,6 @@
+# Build Artifacts
+MouseCut.app/
+MouseCut
+
+# System Files
+.DS_Store
